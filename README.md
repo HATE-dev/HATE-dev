@@ -1,6 +1,6 @@
 # About ME 💬 :
 
-### - I'm 22 years not experienced developer and still learning...
+### - I'm 26 years not experienced developer and still learning...
 
 ### - Learning :
 - ✨ Javascript & HTML
